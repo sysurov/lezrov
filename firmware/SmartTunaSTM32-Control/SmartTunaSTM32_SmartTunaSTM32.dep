@@ -1,0 +1,232 @@
+Dependencies for Project 'SmartTunaSTM32', Target 'SmartTunaSTM32': (DO NOT MODIFY !)
+F (.\Source\SmartTuna.c)(0x5743EA0C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\smarttuna.o --omf_browse .\objects\smarttuna.crf --depend .\objects\smarttuna.d)
+I (.\Include\SmartTuna.h)(0x5743E58C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_exti.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_flash.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_gpio.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_tim.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_usart.h)(0x4C20763C)
+I (.\Library\inc\misc.h)(0x4C20763C)
+I (.\Include\NVIC.h)(0x563C61E4)
+I (.\Include\Timer.h)(0x566547D4)
+I (.\Include\UART.h)(0x563C6268)
+I (.\Include\CPGCore.h)(0x57134FC0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\OnChip.h)(0x5743EB70)
+F (.\Source\NVIC.c)(0x56AB3130)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\nvic.o --omf_browse .\objects\nvic.crf --depend .\objects\nvic.d)
+I (.\Include\NVIC.h)(0x563C61E4)
+I (.\Include\SmartTuna.h)(0x5743E58C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_exti.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_flash.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_gpio.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_tim.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_usart.h)(0x4C20763C)
+I (.\Library\inc\misc.h)(0x4C20763C)
+I (.\Include\Timer.h)(0x566547D4)
+I (.\Include\UART.h)(0x563C6268)
+I (.\Include\CPGCore.h)(0x57134FC0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\OnChip.h)(0x5743EB70)
+F (.\Source\Timer.c)(0x5743C234)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (.\Include\Timer.h)(0x566547D4)
+I (.\Include\SmartTuna.h)(0x5743E58C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_exti.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_flash.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_gpio.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_tim.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_usart.h)(0x4C20763C)
+I (.\Library\inc\misc.h)(0x4C20763C)
+I (.\Include\NVIC.h)(0x563C61E4)
+I (.\Include\UART.h)(0x563C6268)
+I (.\Include\CPGCore.h)(0x57134FC0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\OnChip.h)(0x5743EB70)
+F (.\Source\Exti.c)(0x566568E8)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\exti.o --omf_browse .\objects\exti.crf --depend .\objects\exti.d)
+I (.\Include\Exti.h)(0x563C61EC)
+I (.\Include\SmartTuna.h)(0x5743E58C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_exti.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_flash.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_gpio.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_tim.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_usart.h)(0x4C20763C)
+I (.\Library\inc\misc.h)(0x4C20763C)
+I (.\Include\NVIC.h)(0x563C61E4)
+I (.\Include\Timer.h)(0x566547D4)
+I (.\Include\UART.h)(0x563C6268)
+I (.\Include\CPGCore.h)(0x57134FC0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\OnChip.h)(0x5743EB70)
+F (.\Source\UART.c)(0x5743F278)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (.\Include\UART.h)(0x563C6268)
+I (.\Include\SmartTuna.h)(0x5743E58C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_exti.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_flash.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_gpio.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_tim.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_usart.h)(0x4C20763C)
+I (.\Library\inc\misc.h)(0x4C20763C)
+I (.\Include\NVIC.h)(0x563C61E4)
+I (.\Include\Timer.h)(0x566547D4)
+I (.\Include\CPGCore.h)(0x57134FC0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (.\Include\OnChip.h)(0x5743EB70)
+F (.\Source\CPGCore.c)(0x5743EA0C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\cpgcore.o --omf_browse .\objects\cpgcore.crf --depend .\objects\cpgcore.d)
+I (.\Include\CPGCore.h)(0x57134FC0)
+I (.\Include\SmartTuna.h)(0x5743E58C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_exti.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_flash.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_gpio.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_tim.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_usart.h)(0x4C20763C)
+I (.\Library\inc\misc.h)(0x4C20763C)
+I (.\Include\NVIC.h)(0x563C61E4)
+I (.\Include\Timer.h)(0x566547D4)
+I (.\Include\UART.h)(0x563C6268)
+I (.\Include\OnChip.h)(0x5743EB70)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+F (.\Source\OnChip.c)(0x5743FA40)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\onchip.o --omf_browse .\objects\onchip.crf --depend .\objects\onchip.d)
+I (.\Include\OnChip.h)(0x5743EB70)
+I (.\Include\SmartTuna.h)(0x5743E58C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_exti.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_flash.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_gpio.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_tim.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x_usart.h)(0x4C20763C)
+I (.\Library\inc\misc.h)(0x4C20763C)
+I (.\Include\NVIC.h)(0x563C61E4)
+I (.\Include\Timer.h)(0x566547D4)
+I (.\Include\UART.h)(0x563C6268)
+I (.\Include\CPGCore.h)(0x57134FC0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+F (.\Library\src\system_stm32f10x.c)(0x4C207638)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+F (.\Library\src\core_cm3.c)(0x4C207636)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+F (.\Library\src\misc.c)(0x4C20763C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (.\Library\inc\misc.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+F (.\Library\src\stm32f10x_adc.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_bkp.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_can.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_cec.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_crc.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_dac.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_dbgmcu.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_dma.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_exti.c)(0x4C20763E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_exti.o --omf_browse .\objects\stm32f10x_exti.crf --depend .\objects\stm32f10x_exti.d)
+I (.\Library\inc\stm32f10x_exti.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+F (.\Library\src\stm32f10x_flash.c)(0x4C20763E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_flash.o --omf_browse .\objects\stm32f10x_flash.crf --depend .\objects\stm32f10x_flash.d)
+I (.\Library\inc\stm32f10x_flash.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+F (.\Library\src\stm32f10x_fsmc.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_gpio.c)(0x4C20763E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (.\Library\inc\stm32f10x_gpio.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+F (.\Library\src\stm32f10x_i2c.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_iwdg.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_pwr.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_rcc.c)(0x4C20763E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+F (.\Library\src\stm32f10x_rtc.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_sdio.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_spi.c)(0x4C20763E)()
+F (.\Library\src\stm32f10x_tim.c)(0x4C20763E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_tim.o --omf_browse .\objects\stm32f10x_tim.crf --depend .\objects\stm32f10x_tim.d)
+I (.\Library\inc\stm32f10x_tim.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+F (.\Library\src\stm32f10x_usart.c)(0x4C20763E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Library\inc -I.\Include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_usart.o --omf_browse .\objects\stm32f10x_usart.crf --depend .\objects\stm32f10x_usart.d)
+I (.\Library\inc\stm32f10x_usart.h)(0x4C20763C)
+I (.\Library\inc\stm32f10x.h)(0x4C207638)
+I (.\Library\inc\core_cm3.h)(0x4C207636)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (.\Library\inc\system_stm32f10x.h)(0x4C207638)
+I (.\Include\stm32f10x_conf.h)(0x561DC7E6)
+I (.\Library\inc\stm32f10x_rcc.h)(0x4C20763C)
+F (.\Library\src\stm32f10x_wwdg.c)(0x4C20763E)()
+F (.\Library\startup\startup_stm32f10x_cl.s)(0x4C207638)()
+F (.\Library\startup\startup_stm32f10x_hd.s)(0x4C207638)()
+F (.\Library\startup\startup_stm32f10x_ld.s)(0x4C207638)()
+F (.\Library\startup\startup_stm32f10x_ld_vl.s)(0x4C207638)()
+F (.\Library\startup\startup_stm32f10x_md.s)(0x4C207638)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\Library\startup-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I Device\Include--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (.\Library\startup\startup_stm32f10x_md_vl.s)(0x4C207638)()
+F (.\Library\startup\startup_stm32f10x_xl.s)(0x4C207638)()
